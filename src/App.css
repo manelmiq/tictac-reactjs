@@ -57,9 +57,13 @@
 }
 
 .xSquare{
-  color:red;
+  color:red !important;
 }
 
 .oSquare{
-  color:green;
+  color:green!important;
+}
+
+.winnerSquare{
+  background-color: aquamarine !important;
 }
